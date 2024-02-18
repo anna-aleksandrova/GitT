@@ -1,0 +1,134 @@
+[33mcommit 040a8861e531bf4e4a116116f026f80845d4ec0f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Anna Aleksandrova <anyaaleksandrova1000@gmail.com>
+Date:   Sun Feb 18 19:48:32 2024 +0200
+
+    Updated hello.txt
+
+[33mcommit 9b6d012cb664f9327b23431c009d4c123c106d14[m
+Author: Anna Aleksandrova <anyaaleksandrova1000@gmail.com>
+Date:   Sun Feb 18 19:00:19 2024 +0200
+
+    Added hello.txt
+
+[33mcommit ab8073b4f946bfeb87746d225a42fd217154126c[m
+Author: Anna Aleksandrova <anyaaleksandrova1000@gmail.com>
+Date:   Sun Feb 18 18:07:04 2024 +0200
+
+    Added dev_test.txt
+
+[33mcommit 179f268660c13ed96c2e60aaceeb526531829ffb[m
+Author: Anna Aleksandrova <anyaaleksandrova1000@gmail.com>
+Date:   Sun Feb 18 17:47:25 2024 +0200
+
+    Deleted test.py
+
+[33mcommit d63f4db649e6a89e3aec626a34c3a4b323cbb558[m
+Author: Anna Aleksandrova <anyaaleksandrova1000@gmail.com>
+Date:   Sun Feb 18 17:36:47 2024 +0200
+
+    deleted testdevelop.txt
+
+[33mcommit 0cf9633f70d2657396bb5eba752bf106d797c747[m
+Author: Anna Aleksandrova <108029971+anna-aleksandrova@users.noreply.github.com>
+Date:   Sun Feb 18 18:26:18 2024 +0300
+
+    Create testdevelop.txt
+
+[33mcommit c3e4e91a52ebf0fbf0675cbc0abae0ecf499ddaf[m
+Author: Anna Aleksandrova <anyaaleksandrova1000@gmail.com>
+Date:   Sun Feb 18 16:54:32 2024 +0200
+
+    Added local.txt
+
+[33mcommit 4886f78d8b6b79f09ea20e1f6bc55880256a8cba[m
+Merge: 5956a24 1383341
+Author: Anna Aleksandrova <anyaaleksandrova1000@gmail.com>
+Date:   Sun Feb 18 16:44:43 2024 +0200
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 1383341ef8fcbb5c6e4a6feb1062b530b93c4988[m
+Author: Anna Aleksandrova <108029971+anna-aleksandrova@users.noreply.github.com>
+Date:   Sun Feb 18 17:43:29 2024 +0300
+
+    Create somechanges.txt
+
+[33mcommit 5956a24fede82a7ade92a87ee014a68f2386debc[m
+Merge: 4b9164f a09da38
+Author: Anna Aleksandrova <anyaaleksandrova1000@gmail.com>
+Date:   Sun Feb 18 16:36:20 2024 +0200
+
+    Merge branch 'main' of https://github.com/anna-aleksandrova/test18_02
+
+[33mcommit a09da38daf323a0428ff74cd1a97a1cc2987e853[m
+Author: Anna Aleksandrova <108029971+anna-aleksandrova@users.noreply.github.com>
+Date:   Sun Feb 18 17:31:08 2024 +0300
+
+    Create remote_test.py
+
+[33mcommit 4b9164fb7faa35e4302638eec73afe698cf68c34[m
+Author: Anna Aleksandrova <anyaaleksandrova1000@gmail.com>
+Date:   Sun Feb 18 16:29:26 2024 +0200
+
+    Added test.py
+
+[33mcommit 7c2feb4d9c7dfe0fd8d00fa09bb54014ec391f08[m
+Author: Anna Aleksandrova <anyaaleksandrova1000@gmail.com>
+Date:   Sun Feb 18 14:55:34 2024 +0200
+
+    Added main.py
+
+[33mcommit 4c79b94885125edfb69f7ce27b8fe06b99c68eb5[m
+Author: Anna Aleksandrova <anyaaleksandrova1000@gmail.com>
+Date:   Mon Feb 5 09:20:38 2024 +0200
+
+    Add hello.py
+
+[33mcommit b8edde09103e3657074f91f84a6a16988d6f8050[m
+Merge: a72a318 7f5b38b
+Author: Anna <anyaaleksandrova1000@gmail.com>
+Date:   Sun Jan 28 09:34:38 2024 +0200
+
+    Merge branch 'main' of https://github.com/anna-aleksandrova/GitT
+
+[33mcommit 7f5b38b22fdbe543cbcfde1bca126131df1f58b0[m
+Author: Anna Aleksandrova <108029971+anna-aleksandrova@users.noreply.github.com>
+Date:   Tue Jan 23 18:53:59 2024 +0300
+
+    Update Readme.txt
+
+[33mcommit 9e96e7bca4d2e8b25d8cf45fc2b8d0a331cffcb4[m
+Author: Anna Aleksandrova <108029971+anna-aleksandrova@users.noreply.github.com>
+Date:   Tue Jan 23 18:48:30 2024 +0300
+
+    Update lib.py
+
+[33mcommit a72a318b4c0a46968f53be92e9300d1d3ca3d1f0[m
+Author: Anna <anyaaleksandrova1000@gmail.com>
+Date:   Tue Jan 23 18:09:00 2024 +0300
+
+    Update Readme local
+
+[33mcommit e6129eceafa70b40ca53bbdd76e5058dc93ec44e[m
+Author: Anna <anyaaleksandrova1000@gmail.com>
+Date:   Tue Jan 23 17:40:17 2024 +0300
+
+    added readme
+
+[33mcommit 530813cec3edac2e162d228181e3f7f011ddde0d[m
+Author: Anna Aleksandrova <108029971+anna-aleksandrova@users.noreply.github.com>
+Date:   Tue Jan 23 18:30:25 2024 +0300
+
+    Added library libAndroid.py
+
+[33mcommit af606d744771a975eafeb5d4ec8a717c9e0c2266[m
+Author: Anna <anyaaleksandrova1000@gmail.com>
+Date:   Tue Jan 23 16:27:02 2024 +0300
+
+    second commit
+
+[33mcommit 8ca573a6733bb59a07faaf9117c0621d230e87a4[m
+Author: Anna <anyaaleksandrova1000@gmail.com>
+Date:   Tue Jan 23 16:23:38 2024 +0300
+
+    initial commit
